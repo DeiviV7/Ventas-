@@ -1,4 +1,4 @@
- const url= "http://localhost:3001/productos"
+ const url= "https://673a923b339a4ce4451873d6.mockapi.io/productos"
  
  async function productos(){
 
