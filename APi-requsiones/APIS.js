@@ -1,4 +1,4 @@
- const url= "https://673a923b339a4ce4451873d6.mockapi.io/productos"
+ const url= "https://github.com/DeiviV7/Ventas-"
  
  async function productos(){
 
