@@ -50,11 +50,11 @@ const formulario= document.querySelector("[data-form]")
 async function Agregar(evento){
 
     evento.preventDefault();
-    formulario.reset();
+    
     const titulo=document.querySelector("[data-nombre]").value;
     const precio=document.querySelector("[data-precio]").value;
     const imagen=document.querySelector("[data-imagen]").value;
-
+    formulario.reset();
 
     try{    await ConexionAPI.AgregarProduct(titulo,precio,imagen)
         location.reload();
