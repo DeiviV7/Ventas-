@@ -1,4 +1,4 @@
- const url= "https://github.com/DeiviV7/Ventas-"
+ const url= "http://localhost:3001/productos"
  
  async function productos(){
 
