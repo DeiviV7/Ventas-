@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "2",
+      "titulo": "Lentes Fotocromaticos",
+      "precio": "125.000",
+      "imagen": "https://img.freepik.com/psd-premium/par-gafas-que-dicen-gafas_813556-3827.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid"
+    },
+    {
+      "id": "3",
+      "titulo": "AirPods",
+      "precio": "95.000",
+      "imagen": "https://img.freepik.com/psd-gratis/airpods-tecnologicos-aislados_23-2151196891.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid"
+    },
+    {
+      "id": "4",
+      "titulo": "Bicicleta off road",
+      "precio": "1.000.000",
+      "imagen": "https://img.freepik.com/psd-premium/bicicleta-montana-generica-png_705838-3827.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid"
+    },
+    {
+      "id": "5",
+      "titulo": "aspiradora multiusos",
+      "precio": "205.000",
+      "imagen": "https://img.freepik.com/psd-premium/icono-aspiradora-electrica-aislado-3d-render-ilustracion_47987-10636.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid"
+    },
+    {
+      "id": "6",
+      "titulo": "juego de vajillas",
+      "precio": "50.000",
+      "imagen": "https://img.freepik.com/psd-premium/foto-cuenco-blanco-limpio_668290-776.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid"
+    },
+    {
+      "id": "7",
+      "titulo": "asador",
+      "precio": "500.000",
+      "imagen": "https://img.freepik.com/psd-premium/parrilla-carbon-png_705838-2387.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid"
+    },
+    {
+      "titulo": "zapatos Deportivos",
+      "precio": "400.000",
+      "imagen": "https://img.freepik.com/psd-gratis/diseno-plantilla-redes-sociales-zapatos_505751-4361.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid",
+      "id": "8"
+    },
+    {
+      "titulo": "casco ich ",
+      "precio": "400.000 cop",
+      "imagen": "https://img.freepik.com/fotos-premium/casco-motocicleta-negro-aislado-sobre-fondo-blanco_963338-23316.jpg?ga=GA1.1.1776794530.1731890214&semt=ais_hybrid",
+      "id": "1"
+    }
+  ]
+}
